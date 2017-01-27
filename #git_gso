@@ -13,3 +13,5 @@ Skrá
 Skrá er nærri því grunnurinn sem gagnasöfn sjá um, skrá getur verið það sem er partur af forriti eða einfaldlega word skjal. Það eru margar skrár í tölvum og hver skrá gegnir mismunandi hlutverki.
 Skráasnið
 Skráasnið er merkt með seinustu stöfunum á skjali t.d. „.txt, .docx, .exe“ þessir stafir segja tölvunni hvaða forrit á að opna skjalið  sem notandin hefur valið.
+Gildi
+Segir grunnupplýsingar um skrá, eins og hvenær það var búið til, hvar það er staðsett hvað það er stór og hver eigandi skjárnar er.
